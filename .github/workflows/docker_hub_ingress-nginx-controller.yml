@@ -15,7 +15,7 @@ jobs:
       matrix:
         include:
           - podname: ingress-nginx-controller
-            version: v1.0.5
+            version: v1.1.1
             hub_name: baiyude
             
     steps:
